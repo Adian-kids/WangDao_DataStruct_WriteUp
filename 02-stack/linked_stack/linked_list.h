@@ -1,4 +1,4 @@
-// SingleLinkedList struct
+// SingleLinkedLst struct
 typedef int Element;
 typedef struct Node{
 	Element data;

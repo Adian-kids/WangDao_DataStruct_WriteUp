@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <sys/_types/_va_list.h>
 #include "linked_list.h"
 
 node *initLinkList()
